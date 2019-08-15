@@ -1,2 +1,0 @@
-# ScrollTesting
-Created with CodeSandbox
