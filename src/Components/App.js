@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import Navbar from "./Components/Navbar";
-import Section from "./Components/Section";
-import dummyText from "./DummyText";
+import Navbar from "./Navbar";
+import Section from "./Section";
+import dummyText from "./dummyText";
 class App extends Component {
   render() {
     return (
